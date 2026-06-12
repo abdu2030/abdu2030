@@ -1,6 +1,4 @@
 
-
-<h3 align="center">!!!!!!The commit graph is not updating, some jargon files have been pushed by mistake when i was commiting but i have reset commits and the real commit is in the repo but the graph is not updating for some reason</h1>
 <h1 align="center">Hi 👋, I'm Abdulkerim Adem</h1>
 <h3 align="center">A passionate FullStack and Mobile Developer</h3>
 
