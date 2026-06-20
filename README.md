@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdulkerim Adem</h1>
-<h3 align="center">A passionate FullStack and Mobile Developer</h3>
+<h3 align="center">A passionate FullStack,Mobile Developer and A Machine Learning Model Trainer</h3>
 
 <!-- Animated GIF Banner -->
 <p align="center">
