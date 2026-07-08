@@ -28,11 +28,6 @@
   <img src="https://komarev.com/ghpvc/?username=abdu2030&label=Profile%20views&color=0e75b6&style=flat" alt="abdu2030" /> 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdu2030&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" alt="abdu2030" />
-  </a> 
-</p>
 
 ---
 
