@@ -228,11 +228,7 @@
 
 <h3 align="left">📊 My GitHub Contributions Summary</h3>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=abdu2030&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdu2030)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdu2030&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Your GitHub stats"/>
