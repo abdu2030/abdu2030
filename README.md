@@ -230,13 +230,21 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdu2030)](https://git.io/streak-stats)
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdu2030&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Your GitHub stats"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdu2030&theme=radical"
+    alt="Abdulkerim's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu2030&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e" alt="Top Languages"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdu2030&theme=radical"
+    alt="Abdulkerim's Top Languages"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdu2030&bg_color=151515&color=9e9e9e&line=fb4362&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
