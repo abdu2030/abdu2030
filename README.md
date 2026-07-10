@@ -224,11 +224,16 @@
   </tr>
 </table>
 
----
+<h3 align="center">📊 My GitHub Contributions Summary</h3>
 
-<h3 align="left">📊 My GitHub Contributions Summary</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdu2030)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=abdu2030"
+      alt="Abdulkerim's GitHub Streak"
+    />
+  </a>
+</p>
 
 
 <p align="center">
@@ -237,14 +242,6 @@
     alt="Abdulkerim's GitHub Stats"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdu2030&theme=radical"
-    alt="Abdulkerim's Top Languages"
-  />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdu2030&bg_color=151515&color=9e9e9e&line=fb4362&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
