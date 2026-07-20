@@ -226,10 +226,12 @@
 
 <h3 align="center">📊 My GitHub Contributions Summary</h3>
 
+<h3 align="center">🔥 GitHub Streak</h3>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=abdu2030"
+      src="https://streak-stats.demolab.com/?user=abdu2030&theme=radical&hide_border=true&disable_animations=true"
       alt="Abdulkerim's GitHub Streak"
     />
   </a>
