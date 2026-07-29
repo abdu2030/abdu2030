@@ -226,7 +226,7 @@
 
 <h3 align="center">📊 My GitHub Contributions Summary</h3>
 
-<h3 align="center">🔥 GitHub Streak</h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdu2030)](https://git.io/streak-stats)
 
 
