@@ -41,19 +41,19 @@ Building useful applications and turning ideas into reality.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark&perline=5" height="30" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark&perline=5" height="38" alt="Frontend technologies"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark&perline=4" height="30" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark&perline=4" height="38" alt="Backend technologies"/>
 
 **Mobile & AI**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,sklearn&theme=dark&perline=5" height="30" alt="Mobile and AI technologies"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,sklearn&theme=dark&perline=5" height="38" alt="Mobile and AI technologies"/>
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,docker,vscode&theme=dark&perline=7" height="30" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,docker,vscode&theme=dark&perline=7" height="38" alt="Databases and development tools"/>
 
 ---
 
@@ -61,11 +61,13 @@ Building useful applications and turning ideas into reality.
 
 <div align="center">
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=abdu2030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=abdu2030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu2030&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu2030&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
-<img height="130" src="https://streak-stats.demolab.com?user=abdu2030&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<br/>
+
+<img height="155" src="https://streak-stats.demolab.com?user=abdu2030&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
