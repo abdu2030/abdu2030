@@ -1,256 +1,177 @@
-<h1 align="center">Hi 👋, I'm Abdulkerim Adem</h1>
+ <div align="center">
 
-<h3 align="center">
-  A passionate Full-Stack Developer, Mobile Developer, and Machine Learning Model Trainer
-</h3>
+# 👋 Hey there, I'm Abdulkerim Adem Hassen
 
-<p align="center">
+### Full-Stack Developer · Mobile Developer · Machine Learning Enthusiast
+
+**Turning ideas into impactful digital experiences.**
+
+I build web applications, cross-platform mobile apps, and intelligent software solutions. I enjoy solving complex problems, exploring new technologies, and turning ambitious ideas into working products.
+
+<p>
   <a href="https://github.com/abdu2030">
-    <img src="https://img.shields.io/badge/GitHub-abdu2030-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:Abdukilade456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Abdulkerim-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://flowcv.com/resume/nb9fwhvbh8go">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-View%20My%20Experience-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:Abdukilade456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<!-- Animated GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="coding gif" 
-       width="500" 
-       height="300"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Developer coding animation"/>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abdu2030&label=Profile%20views&color=0e75b6&style=flat" alt="abdu2030" /> 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=abdu2030&label=Profile%20Views&color=6366f1&style=flat-square)
 
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **a Multi-Vendor E-commerce Website Platform**
+I'm a software developer with **3 years of development experience**, passionate about building useful, reliable, and user-focused applications across multiple platforms.
 
-- ✅ I recently completed **LifeOS**, a web app that connects important areas of life such as **finance, health, habits, goals, and journaling**
+- 💻 Experienced in full-stack web development and mobile application development.
+- 📱 Building cross-platform mobile applications with Flutter.
+- 🤖 Exploring Artificial Intelligence and Machine Learning with Python.
+- 🧠 Developed machine learning models, including sentiment analysis.
+- 🛠️ Enjoy working on challenging projects, learning unfamiliar technologies, and finding practical solutions to complex problems.
+- 🤝 Open to collaboration, internships, professional opportunities, and ambitious software projects.
+- 🎯 Always working to improve my engineering skills and build projects that solve real problems.
 
-- 🌱 I'm currently learning **Python to expand my knowledge in AI and Machine Learning**
-
-- 👯 I'm looking to collaborate on **web apps, mobile apps, and AI-powered software projects**
-
-- 👨‍💻 All of my projects are available at **https://github.com/abdu2030**
-
-- 📫 How to reach me: **Abdukilade456@gmail.com**
-
-- 📄 Know about my experiences: **https://flowcv.com/resume/nb9fwhvbh8go**
+**My philosophy:** Keep learning, build with purpose, and never stop improving.
 
 ---
 
-## 🧩 Current Focus
+## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td><strong>Completed Project</strong></td>
-    <td><strong>LifeOS</strong> — a productivity and personal management platform for finance, health, habits, goals, and journaling.</td>
-  </tr>
-  <tr>
-    <td><strong>Current Project</strong></td>
-    <td><strong>Multi-Vendor E-commerce Platform</strong> — a full-stack marketplace system with vendor, customer, product, order, and dashboard features.</td>
-  </tr>
-  <tr>
-    <td><strong>Learning Path</strong></td>
-    <td>Python, AI, Machine Learning, backend systems, API development, and scalable software architecture.</td>
-  </tr>
-</table>
+Here are some of the projects that represent my journey as a developer.
+
+### 📚 AK Shelf — Latest Project
+
+My newest completed project! AK Shelf is the latest addition to my portfolio.
+
+[**Explore my GitHub repositories →**](https://github.com/abdu2030?tab=repositories)
+
+> Add the direct AK Shelf repository link and a short description of its core features here.
+
+### 🧩 LifeOS — Personal Management Platform
+
+A web application designed to bring important areas of everyday life together in one place.
+
+- Organizes finance, health, habits, goals, and journaling.
+- Focuses on making personal management more structured and accessible.
+- Demonstrates my interest in building integrated, user-centered applications.
+
+### 🛍️ Multi-Vendor E-commerce Platform
+
+A full-stack marketplace project designed around the needs of customers and vendors.
+
+- Supports a marketplace-oriented architecture.
+- Focuses on products, vendors, customers, orders, and dashboards.
+- Gives me opportunities to develop my skills in application architecture and full-stack engineering.
+
+### 📱 Eduvox — Learning Platform
+
+A mobile learning application built with Flutter, designed to connect students with educational content and instructors.
+
+- Enables students to explore and learn from courses.
+- Supports instructor-driven course content.
+- Integrates payment functionality through Chapa.
+
+### 🤖 Machine Learning Projects
+
+I've also worked on machine learning projects using Python, including sentiment analysis and predictive modeling.
+
+- Data processing and analysis with NumPy and pandas.
+- Model development and experimentation with PyTorch and scikit-learn.
+- Practical exploration of model evaluation, prediction, and data-driven problem solving.
+
+<div align="center">
+
+**[Explore All My Projects →](https://github.com/abdu2030?tab=repositories)**
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Technologies & Tools
 
-<p align="left">
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue" alt="Frontend technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend technologies"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development technologies"/>
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="Machine learning technologies"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" alt="Database technologies"/>
+</p>
+
+### 🔧 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" alt="Development tools"/>
+</p>
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdu2030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu2030&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=abdu2030&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Great
+
+I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities to grow professionally.
+
+Whether it's a challenging web application, a mobile product, or an AI-powered solution, I'm ready to learn, contribute, and build.
+
+<p align="center">
   <a href="mailto:Abdukilade456@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
   </a>
   <a href="https://github.com/abdu2030">
-    <img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github" alt="github"/>
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
   </a>
   <a href="https://flowcv.com/resume/nb9fwhvbh8go">
-    <img src="https://img.shields.io/badge/Resume-My%20Experience-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="resume"/>
+    <img src="https://img.shields.io/badge/Professional%20Profile-Resume-2563eb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
----
+<div align="center">
 
-<h3 align="left">🎨 Frontend Development</h3>
+### ✨ Building today. Improving tomorrow. Creating impact along the way. ✨
 
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
+*Thanks for stopping by!*
 
----
-
-<h3 align="left">⚙️ Backend Development</h3>
-
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🗄️ Databases</h3>
-
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">📱 Mobile Development</h3>
-
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🤖 Machine Learning & AI</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🛠️ DevOps & Tools</h3>
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🎨 UI/UX Design</h3>
-
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">📌 Featured Work</h3>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">LifeOS</h3>
-      <p align="center">
-        A completed web app designed to connect finance, health, habits, goals, and journaling into one productivity system.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Multi-Vendor E-commerce Platform</h3>
-      <p align="center">
-        A full-stack e-commerce marketplace currently in development, focused on vendors, products, customers, orders, and dashboards.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">📊 My GitHub Contributions Summary</h3>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=abdu2030"
-      alt="Abdulkerim's GitHub Streak"
-    />
-  </a>
-</p>
-
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdu2030&theme=radical"
-    alt="Abdulkerim's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdu2030&bg_color=151515&color=9e9e9e&line=fb4362&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
-
-<p align="center">
-  <strong>Building full-stack, mobile, and AI-powered solutions one project at a time.</strong>
-</p>
+</div>
